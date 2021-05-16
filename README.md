@@ -10,6 +10,8 @@ Information Collection and Use
 
 All information that are saved in the app are only stored locally in the user's device. These information are historical MQM calculation. 
 
+The main functionality of the app does not collect personal information.
+
 The app does use third party services (Google AdMob) that may collect information used to identify you.
 
 More information of the privacy policy of Google Admob is found at:
@@ -17,7 +19,7 @@ https://support.google.com/admob/answer/6128543?hl=en
 
 Log Data
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+I want to inform you that whenever you use my Service, in a case of an error in the app, the app collects data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 Cookies
 
